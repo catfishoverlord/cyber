@@ -1,0 +1,26 @@
+# Buffer Overflow Exploits
+
+## Context
+### Signs of a buffer overflow vulnerability - 
+when a large number of characters are entered as input, the program will segfault or similar
+
+### Needed - 
+the architecture type for the program
+most CTFs will have a "secret" function that will usually get you the flag (or at least get you closer)
+OR
+a way to pop a shell (i.e. shell code)
+
+## Steps
+1. figure out how many characters are needed to overflow the buffer
+2. gdb (or objdump, etc) to find an instruction that is available to be overwritten that would be useful to you (such as jmp)
+3. determine how many characters are necessary to overwrite to that location
+4. follow the buffer string with the number of necessary characters to get to the needed location, then follow that with the memory address that you want to jump to (be sure to check endianness)
+5. jump to the memory location you have inserted
+
+OR
+
+1. figure out how many characters are needed to overflow the buffer
+2. gdb (or objdump, etc) to find a memory location where you can write code to pop a shell, and then be able to call to that memory location with a jmp (or similar)
+3. determine how many characters are necessary to overwrite to that location
+4. follow the buffer string with the number of necessary characters to get to the needed location, then input shell code for the needed architecture in hex, and insert code to call the function (this will not always happen in this order)
+5. jump to the memory location you have inserted

