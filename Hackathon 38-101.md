@@ -17,7 +17,7 @@
 
 ### Publicity
  
-### Liaiing
+### Liaising
 
 ## Logistics
 
