@@ -14,9 +14,9 @@
 	- Admin - 1 person minimum, 2 preferred, minimum 8 staff
 	- Security - 1 person minimum, 2 preferred, minimum 3 staff
 
-###### Total Staff Positions (minimum): 9 
-###### Total Staff Positions (preferred): 15
-###### Total Volunteer Manpower (minimum): 39
+##### Total Staff Positions (minimum): 9 
+##### Total Staff Positions (preferred): 15
+##### Total Volunteer Manpower (minimum): 39
 
 ## CIC
 - is in charge
