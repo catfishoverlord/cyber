@@ -1,24 +1,28 @@
 # USAFA Hackathon
 
-## Mission Elements
-- CIC
-	- ACIC (Plans)
-- PA
-	- Publicity
-	- Liaising
+## Mission Element Staffing Requirements
+- CIC - 1 person
+- ACIC (Plans) - 1 person
+- PA 
+	- Publicity - 1 person minimum, 2 preferred
+	- Liaising - 1 person minimum, 3 preferred
 - Logistics
-	- Sustenance
-	- Transportation
-	- Facilities
-- Personnel
-	- Admin
-	- Security
+	- Sustenance - 1 person minimum, 2 preferred, minimum 16 staff
+	- Transportation - 1 person minimum, 2 preferred, minimum 4 staff
+	- Facilities - 1 person minimum, 2 preferred, minimum 8 staff
+- Personnel 
+	- Admin - 1 person minimum, 2 preferred, minimum 8 staff
+	- Security - 1 person minimum, 2 preferred, minimum 3 staff
+
+###### Total Staff Positions (minimum): 9 
+###### Total Staff Positions (preferred): 15
+###### Total Volunteer Manpower (minimum): 39
 
 ## CIC
 - is in charge
 - reports to CyberWorx POC
 
-### ACIC (Plans)
+## ACIC (Plans)
 - responsible for scheduling of hackathon, including meals and events
 - responsible for sharing workload of CIC
 - reports to CIC
@@ -44,11 +48,13 @@
 - responsible for planning all meals and food distributions
 - responsible for staffing of meals
 - responsible for location and clean up of meals
+- responsible for coordination with homeless shelters for delivery of extra food
 - reports to LogCIC
 
 ### Transportation
 - responsible for parking plans
 - responsible for shuttling of participants
+- responsible for pickup and delivery of meals
 - reports to LogCIC
 
 ### Facilities
