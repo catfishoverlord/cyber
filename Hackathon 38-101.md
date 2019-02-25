@@ -1,20 +1,23 @@
 # USAFA Hackathon
 
 ## Mission Elements
-#### Command
-#### PA
-	##### Publicity
-	##### Liaison
-#### Logistics
-	##### Sustenance
-	##### Transportation
-	##### Venues
-	##### Personnel
-
+- Command
+- PA
+	-Publicity
+	- Liaising
+- Logistics
+	- Sustenance
+	- Transportation
+	- Facilities
+	- Personnel
 
 ## Command
 
 ## PA
+
+### Publicity
+ 
+### Liaiing
 
 ## Logistics
 
@@ -22,6 +25,6 @@
 
 ### Transportation
 
-### Venues
+### Facilities
 
 ### Personnel
