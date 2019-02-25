@@ -3,7 +3,7 @@
 ## Mission Elements
 - Command
 - PA
-	-Publicity
+	- Publicity
 	- Liaising
 - Logistics
 	- Sustenance
