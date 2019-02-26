@@ -18,14 +18,11 @@
 ##### Total Staff Positions (preferred): 15
 ##### Total Volunteer Manpower (minimum): 39
 
-## CIC
-- is in charge
-- reports to CyberWorx POC
-
-## ACIC (Plans)
+## CIC/ACIC (Plans)
+- are in charge
 - responsible for scheduling of hackathon, including meals and events
-- responsible for sharing workload of CIC
-- reports to CIC
+- share workload
+- report to CyberWorx POC and Cyber Outreach LT
 
 ## PA
 - reports to CIC
