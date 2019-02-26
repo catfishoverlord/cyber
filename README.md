@@ -1,1 +1,1 @@
-# Various Scripts and Strategies from the Cyber Competition Team
+# Scripts, Writeups, and Drills, courtesy of Delusions of Grandeur
